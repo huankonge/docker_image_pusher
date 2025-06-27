@@ -1,2 +1,2 @@
 --platform=linux/amd64 alpine:3.13
---platform=linux/arm64/v8 golang:1.20.8-alpine
+--platform=linux/arm64/v8 golang:1.23.5-alpine
