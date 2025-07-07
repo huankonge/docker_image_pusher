@@ -1,2 +1,2 @@
---platform=linux/amd64 alpine:3.13
---platform=linux/arm64/v8 centos:7.9.2009
+--platform=linux/amd64 mysql:8.4.5
+--platform=linux/arm64/v8 mysql:8.4.5
