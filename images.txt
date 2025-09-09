@@ -1,2 +1,2 @@
---platform=linux/amd64 redis-cluster:7.4.5
---platform=linux/arm64 redis-cluster:7.4.5
+--platform=linux/amd64 bitnami/redis-cluster:7.4.3
+--platform=linux/arm64 bitnami/redis-cluster:7.4.3
