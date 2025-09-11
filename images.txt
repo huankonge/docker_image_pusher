@@ -1,2 +1,2 @@
---platform=linux/amd64 bitnami/redis-cluster:7.4.3
---platform=linux/arm64 bitnami/redis-cluster:7.4.3
+--platform=linux/amd64 mariadb:10.6.19
+--platform=linux/arm64/v8 mariadb:10.6.19
