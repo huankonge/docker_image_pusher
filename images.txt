@@ -1,2 +1,3 @@
---platform=linux/amd64 mariadb:10.6.19
---platform=linux/arm64/v8 mariadb:10.6.19
+--platform=linux/amd64 testcontainers/sshd:1.3.0
+--platform=linux/amd64 panubo/sshd:latest
+--platform=linux/amd64 tutum/centos:centos7
