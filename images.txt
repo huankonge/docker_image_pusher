@@ -1,2 +1,2 @@
 --platform=linux/amd64 ubuntu:20.04
---platform=inux/arm64/v8 ubuntu:20.04
+--platform=linux/arm64/v8 ubuntu:20.04
