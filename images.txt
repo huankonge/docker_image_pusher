@@ -1,2 +1,2 @@
---platform=linux/amd64 ubuntu:20.04
---platform=linux/arm64/v8 ubuntu:20.04
+--platform=linux/amd64 mariadb:10.11.16
+--platform=linux/arm64/v8 mariadb:10.11.16
