@@ -1,2 +1,2 @@
---platform=linux/amd64 mariadb:11.4.12
---platform=linux/arm64/v8 mariadb:11.4.12
+--platform=linux/amd64 rancher/kubectl:v1.29.15
+--platform=linux/arm64 rancher/kubectl:v1.29.15
