@@ -1,2 +1,2 @@
---platform=linux/amd64 linuxserver/openssh-server:latest
---platform=linux/arm64 linuxserver/openssh-server:latest
+--platform=linux/amd64 umsp/mcrouter:1.1.0
+--platform=linux/arm64/v8 umsp/mcrouter:1.1.0
